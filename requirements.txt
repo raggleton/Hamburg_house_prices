@@ -14,6 +14,7 @@ cssselect==1.0.1
 cycler==0.10.0
 decorator==4.0.11
 entrypoints==0.2.2
+fake-useragent==0.1.7
 html5lib==0.999999999
 idna==2.5
 incremental==16.10.1
