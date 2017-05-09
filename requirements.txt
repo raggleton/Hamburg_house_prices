@@ -3,7 +3,7 @@ appnope==0.1.0
 asn1crypto==0.22.0
 attrs==16.3.0
 Automat==0.5.0
-beautifulsoup4==4.5.3
+beautifulsoup4==4.6.0
 bleach==2.0.0
 bokeh==0.12.5
 Bottleneck==1.2.0
@@ -15,6 +15,7 @@ cycler==0.10.0
 decorator==4.0.11
 entrypoints==0.2.2
 fake-useragent==0.1.7
+gmplot==1.1.1
 html5lib==0.999999999
 idna==2.5
 incremental==16.10.1
@@ -31,7 +32,7 @@ jupyter-console==5.1.0
 jupyter-core==4.3.0
 lxml==3.7.3
 MarkupSafe==1.0
-matplotlib==2.0.0
+matplotlib==2.0.1
 mistune==0.7.4
 nbconvert==5.1.1
 nbformat==4.3.0
@@ -39,12 +40,12 @@ notebook==5.0.0
 numexpr==2.6.2
 numpy==1.12.1
 packaging==16.8
-pandas==0.19.2
+pandas==0.20.1
 pandocfilters==1.4.1
 parsel==1.1.0
 pexpect==4.2.1
 pickleshare==0.7.4
-plotly==2.0.7
+plotly==2.0.8
 prompt-toolkit==1.0.14
 ptyprocess==0.5.1
 pyasn1==0.2.3
